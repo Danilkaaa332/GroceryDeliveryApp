@@ -78,7 +78,20 @@ git clone https://github.com/Danilkaaa332/GroceryDeliveryApp.git
 ---
 
 ## 7. Демонстрация
-- Скриншоты интерфейса представлены в папке `Screenshots/`
+### Главное окно
+![Главное окно](Screenshots/main-window.png)
+
+### Добавление продукта в корзину
+![Окно оплаты услуг](Screenshots/add-products.png)
+
+### Оформление заказа
+![Ввод номера телефона](Screenshots/order.png)
+
+### Удаление продукта из корзины
+![Ввод денежных средств](Screenshots/delete.png)
+
+### База данных
+![Окно поиска услуг](Screenshots/Database.png)
 
 ---
 
