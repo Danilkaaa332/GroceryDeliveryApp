@@ -1,0 +1,13 @@
+Debug/
+obj/
+.vs/
+GroceryDeliveryApp/obj/
+GroceryDeliveryApp.Tests/bin/
+GroceryDeliveryApp.Tests/obj/
+*.user
+*.suo
+GroceryDeliveryApp.csproj.user
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
